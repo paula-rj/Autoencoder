@@ -18,7 +18,7 @@ Al estar el código en una notebook de Jupyer, es posible correrlo en alguna pla
 
 * Google Colab: 
 * Kaggle: https://www.kaggle.com/polavr/autoencoder-simple-con-mnist (presionar el botón de los 3 puntos en la parte superior derecha -> copy and edit notebook)
-* Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/AutoencoderSimple/master)
+* Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/AutoencoderSimple/main)
 
 O bien simplemente descargarlo y correrlo localmente.
 
