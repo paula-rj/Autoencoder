@@ -1,6 +1,8 @@
-# Autoencoder Simple
+# Autoencoder Simple y Convolucional
 
-Autoencoder más simple posible utilizando las imágenes de MNIST.
+Este proyecto contiene dos notebooks diferentes:
+ - Autoencoder más simple posible utilizando las imágenes de MNIST.
+ - Autoencoder convolucional utilizando las imágenes de MNIST.
 
 Lenguaje de programación: Python
 
