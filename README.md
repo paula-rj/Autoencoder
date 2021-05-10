@@ -26,7 +26,6 @@ Se utilizaron las imagenes del conocido dataset MNIST como ejemplo; son imágene
 ## Getting Started
 Al estar escrito el código en una notebook de Jupyer, es posible correrlo en alguna plataforma online:
 
-* Google Colab: 
 * Kaggle: https://www.kaggle.com/polavr/autoencoder-simple-con-mnist (presionar el botón de los 3 puntos en la parte superior derecha -> copy and edit notebook)
 * Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/AutoencoderSimple/main)
 
